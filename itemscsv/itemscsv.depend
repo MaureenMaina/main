@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533565659 source:c:\users\maureen maina\desktop\diploma\introduction to programming\itemscsv\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
